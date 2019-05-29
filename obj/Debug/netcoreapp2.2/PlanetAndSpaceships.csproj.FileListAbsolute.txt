@@ -1,0 +1,11 @@
+/alidhobey/programming/nss/cohort31/Exercises/PlanetAndSpaceships/bin/Debug/netcoreapp2.2/PlanetAndSpaceships.deps.json
+/alidhobey/programming/nss/cohort31/Exercises/PlanetAndSpaceships/bin/Debug/netcoreapp2.2/PlanetAndSpaceships.runtimeconfig.json
+/alidhobey/programming/nss/cohort31/Exercises/PlanetAndSpaceships/bin/Debug/netcoreapp2.2/PlanetAndSpaceships.runtimeconfig.dev.json
+/alidhobey/programming/nss/cohort31/Exercises/PlanetAndSpaceships/bin/Debug/netcoreapp2.2/PlanetAndSpaceships.dll
+/alidhobey/programming/nss/cohort31/Exercises/PlanetAndSpaceships/bin/Debug/netcoreapp2.2/PlanetAndSpaceships.pdb
+/alidhobey/programming/nss/cohort31/Exercises/PlanetAndSpaceships/obj/Debug/netcoreapp2.2/PlanetAndSpaceships.csprojAssemblyReference.cache
+/alidhobey/programming/nss/cohort31/Exercises/PlanetAndSpaceships/obj/Debug/netcoreapp2.2/PlanetAndSpaceships.csproj.CoreCompileInputs.cache
+/alidhobey/programming/nss/cohort31/Exercises/PlanetAndSpaceships/obj/Debug/netcoreapp2.2/PlanetAndSpaceships.AssemblyInfoInputs.cache
+/alidhobey/programming/nss/cohort31/Exercises/PlanetAndSpaceships/obj/Debug/netcoreapp2.2/PlanetAndSpaceships.AssemblyInfo.cs
+/alidhobey/programming/nss/cohort31/Exercises/PlanetAndSpaceships/obj/Debug/netcoreapp2.2/PlanetAndSpaceships.dll
+/alidhobey/programming/nss/cohort31/Exercises/PlanetAndSpaceships/obj/Debug/netcoreapp2.2/PlanetAndSpaceships.pdb
